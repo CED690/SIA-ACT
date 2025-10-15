@@ -1,0 +1,60 @@
+{
+    "export_date": "2025-10-15 06:28:27",
+    "export_source": "XAMPP HR System",
+    "total_employees": 4,
+    "payroll_period": "October 2025",
+    "payroll_data": [
+        {
+            "employee_id": "EMP001",
+            "full_name": "John Doe",
+            "department": "Engineering",
+            "basic_salary": 5000,
+            "overtime_hours": 11,
+            "overtime_pay": 515.63,
+            "gross_pay": 5515.63,
+            "tax_deduction": 750,
+            "insurance_deduction": 200,
+            "retirement_deduction": 300,
+            "net_pay": 4265.63
+        },
+        {
+            "employee_id": "EMP002",
+            "full_name": "Jane Smith",
+            "department": "Marketing",
+            "basic_salary": 6000,
+            "overtime_hours": 3,
+            "overtime_pay": 168.75,
+            "gross_pay": 6168.75,
+            "tax_deduction": 900,
+            "insurance_deduction": 200,
+            "retirement_deduction": 300,
+            "net_pay": 4768.75
+        },
+        {
+            "employee_id": "EMP003",
+            "full_name": "Bob Johnson",
+            "department": "Sales",
+            "basic_salary": 4500,
+            "overtime_hours": 7,
+            "overtime_pay": 295.31,
+            "gross_pay": 4795.31,
+            "tax_deduction": 675,
+            "insurance_deduction": 200,
+            "retirement_deduction": 300,
+            "net_pay": 3620.31
+        },
+        {
+            "employee_id": "EMP004",
+            "full_name": "Alice Williams",
+            "department": "HR",
+            "basic_salary": 5500,
+            "overtime_hours": 13,
+            "overtime_pay": 670.31,
+            "gross_pay": 6170.31,
+            "tax_deduction": 825,
+            "insurance_deduction": 200,
+            "retirement_deduction": 300,
+            "net_pay": 4845.31
+        }
+    ]
+}
